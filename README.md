@@ -31,13 +31,3 @@ Open and run the Jupyter notebooks located in the notebooks folder. These notebo
 
 ### Data Sets
 Data sets used in this project are located in the data folder.
-
-## Contribution
-If you would like to contribute to the project, please follow these steps:
-
-* Fork the project.
-* Add your feature or correction.
-* Send a pull request along with your changes.
-
-## License
-This project is licensed under MIT License. For more information, see the LICENSE file.
